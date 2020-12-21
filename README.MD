@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **My favorite game is Final Fantasy.**
 
-[Visitors](https://visitor-badge.glitch.me/badge?page_id=github/douglas-kitagawa)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/douglas-kitagawa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
