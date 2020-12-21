@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 😆, I am Douglas Kitagawa</h1>
-<h3 align="center">I work at <a href="https://github.com/Reiwa-Academy" target="blank">Reiwa Academy</a>, <a href="https://github.com/Spot9-Academy" target="blank">Spot9</a> and <a href="https://www.nintendo.co.jp/" target="blank">Nintendo</a>.</h3>
+<h3 align="center">I work at <a href="https://github.com/Reiwa-Academy" target="blank">Reiwa Academy</a>, <a href="https://github.com/Spot9-Academy" target="blank">Spot9 Academy</a> and <a href="https://www.nintendo.co.jp/" target="blank">Nintendo</a>.</h3>
 
 - 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOT's, Audio Engineering and Ethical Hacking stuff.**
 
