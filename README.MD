@@ -1,4 +1,6 @@
-<h1 align="center">Hello! 🙂 I'm Douglas Kitagawa</h1>.
+<h1 align="center">Greetings! 🙂</h1>
+
+<h3 align="center">I'm Douglas Kitagawa. Nice to meet you! 😉</h3>
 
 - 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOT's, Audio Engineering and Ethical Hacking stuff.**
 
