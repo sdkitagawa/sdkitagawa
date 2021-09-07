@@ -2,9 +2,9 @@
 
 <h3 align="center">I'm Douglas Kitagawa. Nice to meet you! 😉</h3>
 
-- 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOT's, Audio Engineering and Ethical Hacking stuff.**
+- 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOTs, Audio Engineering and Ethical Hacking stuff.**
 
-- 📫 How to reach me **douglaskitagawa@outlook.com**
+- 📫 How to reach me **sdkitagawa@outlook.com**
 
 - ⚡ Fun fact **My favorite games are all the Zelda and Final Fantasy frenchise.**
 
