@@ -4,7 +4,7 @@
 
 - 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOTs, Audio Engineering and Ethical Hacking stuff.**
 
-- 📫 How to reach me **sdkitagawa@outlook.com**
+- 📫 How to reach me **dkitagawa@outlook.jp**
 
 - ⚡ Fun fact **My favorite games are all the Zelda and Final Fantasy frenchise.**
 
