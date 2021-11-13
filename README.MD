@@ -1,11 +1,21 @@
 <h1 align="center">Greetings! 🙂</h1>
-<h3 align="center">I'm Douglas Kitagawa. Nice to meet you! 😉</h3> - 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOTs, Audio Engineering and Ethical Hacking stuff.** - 📫 How to reach me **sdkitagawa@outlook.com** - ⚡ Fun fact **My favorite games are all the Zelda and Final Fantasy frenchise.** <div>
+
+<h3 align="center">I'm Douglas Kitagawa. Nice to meet you! 😉</h3>
+
+- 💬 Feel free to ask me about **Delphi, Python, HTML, CSS, Javascript, Discord BOTs, Audio Engineering and Ethical Hacking stuff.**
+
+- 📫 How to reach me **sdkitagawa@outlook.com**
+
+- ⚡ Fun fact **My favorite games are all the Zelda and Final Fantasy frenchise.**
+
+<div>
   <a href="https://github.com/sdkitagawa">
-    <div style="display: inline_block">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdkitagawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdkitagawa&layout=compact&langs_count=7&theme=tokyonight" />
+  <div style="display: inline_block">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdkitagawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdkitagawa&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
 </div>
+  
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
