@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Douglas Kitagawa. Nice to meet you! 😉</h3>
 
-- 💬 Feel free to ask me about **Python, Java, Assembly, Javascript, C++, Discord BOTs and Audio Engineering.**
+- 💬 Feel free to ask me about **Python, Javascript, C++, Java and Assembly.**
 
 - 📫 How to reach me **dkitagawa@outlook.jp**
 
