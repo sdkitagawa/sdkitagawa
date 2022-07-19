@@ -6,11 +6,7 @@
 
 ###
 
-<p align="left">💬 Feel free to ask me about Assembly, C++, C#, Lua, Python and Javascript.<br><br>📫 How to reach me dkitagawa@ymail.ne.jp<br><br>⚡ Fun fact my favorite games frenchises are The Legend of Zelda and Final Fantasy.</p>
-
-###
-
-<p align="left">🧑🏻‍💻 Web development, programming languages, frameworks, technologies and platforms that I have experience with:</p>
+<p align="left">💬 Feel free to ask me about Assembly, C++, C#, Lua, Python and Javascript.<br><br>📫 How to reach me dkitagawa@ymail.ne.jp<br><br>⚡ Fun fact my favorite games frenchises are The Legend of Zelda and Final Fantasy.<br><br>🧑🏻‍💻 Web development, programming languages, frameworks, technologies and platforms that I have experience with:</p>
 
 ###
 
@@ -48,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" width="52" alt="qt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" width="52" alt="ssh logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="40" width="52" alt="ssh logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="52" alt="tomcat logo"  />
@@ -67,8 +63,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&username=sdkitagawa" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&username=sdkitagawa" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&username=sdkitagawa" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false&username=sdkitagawa" height="150" alt="languages graph"  />
 </div>
 
 ###
