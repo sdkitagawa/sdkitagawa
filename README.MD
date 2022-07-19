@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Web development, programming languages, frameworks, technologies and platforms that I have experience with:</p>
+<p align="left">🧑🏻‍💻 Web development, programming languages, frameworks, technologies and platforms that I have experience with:</p>
 
 ###
 
