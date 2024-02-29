@@ -1,6 +1,5 @@
 <h1 align="center">Greetings 😆</h1>
 
-<<<<<<< HEAD
 ![Header](https://i.ibb.co/hmwqmh3/Git-Hub-Card.png)
 
 #### ⬇️ Updates:
