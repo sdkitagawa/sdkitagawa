@@ -6,7 +6,7 @@
 
 #### ⬇️ Updates:
 
-🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are all the The Legend of Zelda and Final Fantasy franchise<br />📫 E-mail: `dksoftware@engineer.com`
+🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are all the The Legend of Zelda and Final Fantasy franchise<br />📫 **E-mail**: `dksoftware@engineer.com`
 
 <!-- @dkitagawa | Douglas Kitagawa -->
 
