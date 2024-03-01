@@ -6,10 +6,7 @@
 
 #### ⬇️ Updates:
 
-🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are all the The Legend of Zelda and Final Fantasy franchise<br />📫 **E-mail**: `dksoftware@engineer.com`
-
-<!-- @dkitagawa | Douglas Kitagawa -->
-
+🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are all the The Legend of Zelda and Final Fantasy franchise<br />📫 **E-mail**: `dk-software@engineer.com`
 
 # Tech Stack 💻
 ### Languages
@@ -31,3 +28,7 @@
 
   ##  Support my work
  <a href="https://www.buymeacoffee.com/sdkitagawa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 250px !important" ></a>
+
+<!--
+  * Profile Template by: @dkitagawa | Douglas Kitagawa
+-->
