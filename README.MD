@@ -6,7 +6,7 @@
 
 #### ⬇️ Updates:
 
-🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are all the The Legend of Zelda and Final Fantasy franchise<br />📫 **E-mail**: `dk.software@engineer.com`
+🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are the whole "The Legend of Zelda" and "Final Fantasy" games franchise<br />📫 **E-mail**: `dk.software@engineer.com`
 
 # Tech Stack 💻
 ### Languages
