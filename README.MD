@@ -1,6 +1,8 @@
 # Hi! I'm Douglas Kitagawa 👋🏻
 <br />
 
+![Header](https://i.ibb.co/R7ybZFk/Github-Card.png)
+
 #### ⬇️ Updates:
 
 🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are the whole "The Legend of Zelda" and "Final Fantasy" games franchise<br />📫 **E-mail**: `dk.software@engineer.com`
