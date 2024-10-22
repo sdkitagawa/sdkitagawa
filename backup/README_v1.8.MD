@@ -1,6 +1,9 @@
 # Hi! I'm Douglas Kitagawa 👋🏻
 <br />
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=f7f0f7)](https://instagram.com/sdkitagawa) [![Facebook](https://img.shields.io/badge/facebook-287deb?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://facebook.com/sdkitagawa) [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://youtube.com/@dkitagawa) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=FFFFFF)](https://codepen.io/dkitagawa)
+![Header](https://i.ibb.co/R7ybZFk/Github-Card.png)
+
 #### ⬇️ Updates:
 
 🦉 I’m currently learning React and C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are the whole "The Legend of Zelda" and "Final Fantasy" games franchise<br />📫 **E-mail**: `dk.software@engineer.com`
