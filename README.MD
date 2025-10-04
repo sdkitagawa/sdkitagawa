@@ -1,15 +1,22 @@
 # Hi! I'm Douglas Kitagawa 👋🏻
 <br />
 
-![Header](https://i.ibb.co/R7ybZFk/Github-Card.png)
+🧩 I'm a **Software Engineer**, I’ve been programming for fun since I was **11 years old**, driven by curiosity and a genuine love for technology.
 
-#### ⬇️ Updates:
+> **Computer Enthusiast** 💻 | **Music Production & Audio Engineering Lover** 🎧 | **Passionate about Neuroscience & Psychology** 🧠 | **Dedicated Educator** 📚 | **Video Game Player** 🎮
 
-🦉 I’m currently learning C# <br />⭐ Ask me anything about Python, JavaScript, C++ or Assembly<br />⚡ **Fun fact:** I prefer tabs over spaces<br />❓ **Fact about me:** My favorite games are the whole "The Legend of Zelda" and "Final Fantasy" games franchise<br />📫 **E-mail**: `dk.software@engineer.com`
+I have a deep passion for sharing knowledge and promoting learning. My journey is marked by multidisciplinarity, with skills developed across several fields!
+
+
+* 💫 Always aiming at **usability** and **code performance** at all costs.
+* ✔️ Always learning backend technologies.
+* 👽 Also surfing on artificial intelligence stuff.
+
+<br />
 
 # Tech Stack 💻
 ### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%20sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LUA](https://img.shields.io/badge/lua-0844a6?style=for-the-badge&logo=lua&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Node.JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-00d2f7.svg?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%20sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LUA](https://img.shields.io/badge/lua-0844a6?style=for-the-badge&logo=lua&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Node.JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-00d2f7.svg?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 
 ### Databases, Design Tools, Libraries & Runtimes
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Adobe XD](https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Node.JS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-00d2f7.svg?style=for-the-badge&logo=react&logoColor=FFFFFF)
