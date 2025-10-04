@@ -1,5 +1,5 @@
-# Hi! I'm Douglas Kitagawa 👋🏻
-<br />
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sdkitagawa)](https://github.com/sdkitagawa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
 
 🧩 A **Software Engineer** who has been programming since the age of **11**, driven by curiosity and a genuine passion for technology, driven by curiosity and a genuine love for technology.
 
