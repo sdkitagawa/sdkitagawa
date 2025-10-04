@@ -3,7 +3,7 @@
 
 🧩 A **Software Engineer** who has been programming since the age of **11**, driven by curiosity and a genuine passion for technology, driven by curiosity and a genuine love for technology.
 
-> **Computer Enthusiast** 💻 | **Music Production & Audio Engineering Lover** 🎧 | **Passionate about Neuroscience & Psychology** 🧠 | **Dedicated Educator** 📚 | **Video Game Player** 🎮
+> **Computer Lover** 💻 | **Music Production & Audio Engineering Lover** 🎧 | **Passionate about Neuroscience & Psychology** 🧠 | **Dedicated Educator** 🎓 | **Video Game Player** 🎮
 
 I have a deep passion for sharing knowledge and promoting learning. My journey is marked by multidisciplinarity, with skills developed across several fields!
 
