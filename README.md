@@ -196,7 +196,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
     </picture>
 </div>
 
-## AI & Agent Harness Tools  
+## AI and Agent Harness Tools  
 
 <div>
     <picture>
