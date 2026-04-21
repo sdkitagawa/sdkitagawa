@@ -119,7 +119,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
         <img src="./assets/visualstudio-auto.svg" alt="Visual Studio" title="Visual Studio" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/kiro.svg" alt="Kiro" title="Kiro" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/cursor-auto.svg" alt="Cursor" title="Cursor" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/antigravity-auto.svg" alt="Kiro" title="Kiro" width="48" height="50" hspace="2" loading="lazy">
+        <img src="./assets/antigravity-auto.svg" alt="Antigravity" title="Antigravity" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/xcode-auto.svg" alt="Xcode" title="Xcode" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/idea-auto.svg" alt="IntelliJ Idea" title="IntelliJ Idea" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/eclipse-auto.svg" alt="Eclipse" title="Eclipse" width="48" height="50" hspace="2" loading="lazy">
