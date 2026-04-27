@@ -231,7 +231,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
         <img src="./assets/audition.svg" alt="Adobe Audition" title="Adobe Audition" width="50" height="50" hspace="2" loading="lazy">
         <img src="./assets/audacity-auto.svg" alt="Audacity" title="Audacity" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/figma-auto.svg" alt="Figma" title="Figma" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/aseprite-auto.svg" alt="aseprite" title="Aseprite" width="48" height="50" hspace="2" loading="lazy">
+        <img src="./assets/aseprite-dark.svg" alt="Aseprite" title="Aseprite" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/paint-tool-sai-auto.svg" alt="Paint Tool SAI" title="Paint Tool SAI" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/lightroom.svg" alt="Adobe Lightroom" title="Adobe Lightroom" width="48" height="50" hspace="2" loading="lazy">
