@@ -214,6 +214,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
         <img src="./assets/gemini-auto.svg" alt="Gemini" title="Gemini" width="48" height="48" hspace="2" loading="lazy">
         <img src="./assets/claude-code-dark.svg" alt="Claude Code" title="Claude Code" width="48" height="48" hspace="2" loading="lazy">
         <img src="./assets/opencode-auto.svg" alt="OpenCode" title="OpenCode" width="48" height="48" hspace="2" loading="lazy">
+        <img src="./assets/hermes-agent-dark.svg" alt="Hermes Agent" title="Hermes Agent" width="48" height="48" hspace="2" loading="lazy">
         <img src="./assets/open-webui-auto.svg" alt="Open Web-UI" title="Open Web-UI" width="48" height="48" hspace="2" loading="lazy">
         <img src="./assets/open-router-auto.svg" alt="Open Router" title="Open Router" width="48" height="48" hspace="2" loading="lazy">
     </picture>
