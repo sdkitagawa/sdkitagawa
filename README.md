@@ -20,15 +20,13 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Tech Stack - Main Languages  
 
-<div>
-    <picture>
-        <img src="./assets/c.svg" alt="C" title="C" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50" hspace="2" loading="lazy">
-        <img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
+<div style="display:flex; flex-wrap:wrap; gap:4px;">
+  <img src="./assets/c.svg" width="48" height="50">
+  <img src="./assets/cpp.svg" width="48" height="50">
+  <img src="./assets/lua-alternative-a-dark.svg" width="50" height="50">
+  <img src="./assets/javascript.svg" width="48" height="50">
+  <img src="./assets/typescript.svg" width="48" height="50">
+  <img src="./assets/python-auto.svg" width="48" height="50">
 </div>
 
 ## Other Known Languages  
