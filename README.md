@@ -17,17 +17,18 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * ✔️ Always learning backend technologies.
-* :octocat: Also surfing on artificial intelligence stuff.
 
 ## Tech Stack - Main Languages  
 
 <div>
-        <img src="./assets/c.svg" alt="C" title="C" width="48" height="50" hspace="2" loading="lazy">
+    <picture>
+        <img src="./assets/c.svg" alt="C" title="C" width="48" height="50" loading="lazy">
         <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50" hspace="2" loading="lazy">
         <img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50" hspace="2" loading="lazy">
+    </picture>
 </div>
 
 ## Other Known Languages  
