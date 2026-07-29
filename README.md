@@ -14,281 +14,68 @@
 
 I have a deep passion for sharing knowledge and promoting learning. My journey is marked by multidisciplinarity, with skills developed across several fields!
 
-
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * ✔️ Always learning backend technologies.
+* :octocat: Also surfing on artificial intelligence stuff.
 
-<div>
-    <picture>
-        <img src="./assets/c.svg" alt="C" title="C" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50" hspace="2" loading="lazy">
-        <img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+## Tech Stack - Main Languages
 
-## Other Known Languages  
+![C](./assets/c.svg) ![C++](./assets/cpp.svg) ![Lua](./assets/lua-alternative-a-dark.svg) ![JavaScript](./assets/javascript.svg) ![TypeScript](./assets/typescript.svg) ![Python](./assets/python-auto.svg)
 
-<div>
-    <picture>
-        <img src="./assets/assembly.svg" alt="Assembly" title="Assembly" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cs.svg" alt="C#" title="C#" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/java-auto.svg" alt="Java" title="Java" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/delphi-auto.svg" alt="Delphi" title="Delphi" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rust-auto.svg" alt="Rust" title="Rust" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/zig-auto.svg" alt="Zig" title="Zig" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/golang.svg" alt="GOLang" title="Go" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/corese-auto.svg" alt="CoreSE" title="CoreSE" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/visualbasic-auto.svg" alt="Visual Basic" title="Visual Basic" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/php-auto.svg" alt="PHP" title="PHP" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ruby-auto.svg" alt="Ruby" title="Ruby" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+## Other Known Languages
 
-## Web, Data Bases, Libraries, Runtimes and Technologies  
+![Assembly](./assets/assembly.svg) ![C#](./assets/cs.svg) ![Java](./assets/java-auto.svg) ![Delphi](./assets/delphi-auto.svg) ![Rust](./assets/rust-auto.svg) ![Zig](./assets/zig-auto.svg) ![GOLang](./assets/golang.svg) ![CoreSE](./assets/corese-auto.svg) ![Visual Basic](./assets/visualbasic-auto.svg) ![PHP](./assets/php-auto.svg) ![Ruby](./assets/ruby-auto.svg)
 
-<div>
-    <picture>
-        <img src="./assets/markdown-auto.svg" alt="Markdown" title="Markdown" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/html.svg" alt="HTML" title="HTML" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/css.svg" alt="CSS" title="CSS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/htmx-auto.svg" alt="HTMX" title="HTMX" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/jquery.svg" alt="jQuery" title="jQuery" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/yaml-auto.svg" alt="YAML" title="YAML" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/mysql-auto.svg" alt="MySQL" title="MySQL" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/sqlite.svg" alt="SQLite" title="SQLite" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/mariadb-auto.svg" alt="MongoDB" title="MongoDB" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/sqlserver-auto.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/oracle-auto.svg" alt="Oracle" title="Oracle" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/redis-dark.svg" alt="Redis" title="Redis" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/phpmyadmin-auto.svg" alt="phpMyAdmin" title="phpMyAdmin" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/apache-auto.svg" alt="Apache" title="Apache" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cpanel-auto.svg" alt="cPanel" title="cPanel" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/filezilla-auto.svg" alt="FileZilla" title="FileZilla" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ipboard-auto.svg" alt="Invision Power Board" title="Invision Power Board" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/gtk-auto.svg" alt="GTK" title="GTK" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/libuv-auto.svg" alt="Openresty" title="Openresty" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/sdl-auto.svg" alt="SDL" title="SDL" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/qt-auto.svg" alt="Qt" title="Qt" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/openresty-auto.svg" alt="Openresty" title="Openresty" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/defold-auto.svg" alt="Defold" title="Defold" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/dotnet.svg" alt=".NET Core" title=".NET Core" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/react-auto.svg" alt="React" title="React" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/bun-alternative-auto.svg" alt="Bun" title="Bun" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vinext-auto.svg" alt="vinext" title="vinext" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nextjs-auto.svg" alt="Next.js" title="Next.js" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nodejs-auto.svg" alt="Node.JS" title="Node.JS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/expressjs-alternative-auto.svg" alt="Express" title="Express" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/fastify-auto.svg" alt="Fastify" title="Fastify" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nestjs-auto-alternative.svg" alt="NestJS" title="NestJS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/electron.svg" alt="Electron" title="Electron" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/django.svg" alt="Django" title="Django" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/spring-auto.svg" alt="Springboot" title="Springboot" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/laravel-auto.svg" alt="Laravel" title="Laravel" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rails.svg" alt="Rails" title="Rails" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/https-auto.svg" alt="HTTPS" title="HTTPS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/dns-auto.svg" alt="DNS" title="DNS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ssh-auto.svg" alt="SSH" title="SSH" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/websocket-auto.svg" alt="Web Socket" title="Web Socket" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/mcp-auto.svg" alt="MCP" title="MCP" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/api-auto.svg" alt="API" title="API" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rest-api-auto.svg" alt="Rest API" title="Rest API" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/excalidraw-auto.svg" alt="Excalidraw" title="Excalidraw" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cmake-auto.svg" alt="CMake" title="CMake" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cloudflare-auto.svg" alt="Cloudflare" title="Cloudflare" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rabbitmq-auto.svg" alt="RabbitMQ" title="RabbitMQ" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/leetcode-auto.svg" alt="LeetCode" title="LeetCode" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+## Web, Data Bases, Libraries, Runtimes and Technologies
 
-## PDEs, IDEs, Frameworks and DevOps Tools  
+![Markdown](./assets/markdown-auto.svg) ![HTML](./assets/html.svg) ![CSS](./assets/css.svg) ![HTMX](./assets/htmx-auto.svg) ![jQuery](./assets/jquery.svg) ![YAML](./assets/yaml-auto.svg) ![Bootstrap](./assets/bootstrap.svg) ![MySQL](./assets/mysql-auto.svg) ![MongoDB](./assets/mongodb.svg) ![SQLite](./assets/sqlite.svg) ![MariaDB](./assets/mariadb-auto.svg) ![Microsoft SQL Server](./assets/sqlserver-auto.svg) ![Oracle](./assets/oracle-auto.svg) ![Redis](./assets/redis-dark.svg) ![phpMyAdmin](./assets/phpmyadmin-auto.svg) ![Apache](./assets/apache-auto.svg) ![cPanel](./assets/cpanel-auto.svg) ![FileZilla](./assets/filezilla-auto.svg) ![Invision Power Board](./assets/ipboard-auto.svg) ![GTK](./assets/gtk-auto.svg) ![Openresty](./assets/libuv-auto.svg) ![SDL](./assets/sdl-auto.svg) ![Qt](./assets/qt-auto.svg) ![Openresty](./assets/openresty-auto.svg) ![Defold](./assets/defold-auto.svg) ![.NET Core](./assets/dotnet.svg) ![React](./assets/react-auto.svg) ![Bun](./assets/bun-alternative-auto.svg) ![vinext](./assets/vinext-auto.svg) ![Next.js](./assets/nextjs-auto.svg) ![Node.JS](./assets/nodejs-auto.svg) ![Express](./assets/expressjs-alternative-auto.svg) ![Fastify](./assets/fastify-auto.svg) ![NestJS](./assets/nestjs-auto-alternative.svg) ![Electron](./assets/electron.svg) ![Django](./assets/django.svg) ![Springboot](./assets/spring-auto.svg) ![Laravel](./assets/laravel-auto.svg) ![Rails](./assets/rails.svg) ![HTTPS](./assets/https-auto.svg) ![DNS](./assets/dns-auto.svg) ![SSH](./assets/ssh-auto.svg) ![Web Socket](./assets/websocket-auto.svg) ![MCP](./assets/mcp-auto.svg) ![API](./assets/api-auto.svg) ![Rest API](./assets/rest-api-auto.svg) ![Excalidraw](./assets/excalidraw-auto.svg) ![CMake](./assets/cmake-auto.svg) ![Cloudflare](./assets/cloudflare-auto.svg) ![RabbitMQ](./assets/rabbitmq-auto.svg) ![LeetCode](./assets/leetcode-auto.svg)
 
-<div>
-    <picture>
-        <img src="./assets/neovim-modern-auto.svg" alt="Neovim" title="Neovim" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vim-auto.svg" alt="Vim" title="Vim" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vscode-auto.svg" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vscodeinsiders-auto.svg" alt="Visual Studio Code Insiders" title="Visual Studio Code Insiders" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/visualstudio-auto.svg" alt="Visual Studio" title="Visual Studio" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/kiro.svg" alt="Kiro" title="Kiro" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cursor-auto.svg" alt="Cursor" title="Cursor" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/antigravity-auto.svg" alt="Antigravity" title="Antigravity" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/xcode-auto.svg" alt="Xcode" title="Xcode" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/idea-auto.svg" alt="IntelliJ Idea" title="IntelliJ Idea" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/eclipse-auto.svg" alt="Eclipse" title="Eclipse" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/sublime-auto.svg" alt="Sublime" title="Sublime" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/atom.svg" alt="Atom" title="Atom" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/bash-auto.svg" alt="Bash" title="Bash" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/warp-auto.svg" alt="WARP" title="WARP" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/terminal-auto.svg" alt="Windows Terminal" title="Windows Terminal" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/iterm-auto.svg" alt="iTerm" title="iTerm" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/kitty-auto.svg" alt="Kitty" title="Kitty" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/svn.svg" alt="SVN" title="SVN" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/git-auto.svg" alt="Git" title="Git" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/gitbash-auto.svg" alt="Git Bash" title="Git Bash" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/github-auto.svg" alt="Github" title="Github" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/gitlab-auto.svg" alt="Gitlab" title="Gitlab" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ci-cd-alternative-auto.svg" alt="Circle CI/CD" title="Circle CI/CD" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/docker.svg" alt="Docker" title="Docker" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/aws-auto.svg" alt="AWS" title="AWS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ec2.svg" alt="Amazon EC2" title="Amazon EC2" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ecs.svg" alt="Amazon ECS" title="Amazon ECS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/fargate.svg" alt="AWS Fargate" title="AWS Fargate" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/elasticbeanstalk.svg" alt="AWS Elastic Beanstalk" title="AWS Elastic Beanstalk" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/lambda.svg" alt="AWS Lambda" title="AWS Lambda" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/s3-auto.svg" alt="Amazon S3" title="Amazon S3" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rds.svg" alt="Amazon RDS" title="Amazon RDS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/azure-auto.svg" alt="Azure" title="Azure" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/salesforce-auto.svg" alt="Salesforce" title="Salesforce" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/heroku.svg" alt="Heroku" title="Heroku" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/jira-auto.svg" alt="Jira" title="Jira" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/trello-auto.svg" alt="Trello" title="Trello" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/clickup-auto.svg" alt="ClickUp" title="ClickUp" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/obsidian-auto.svg" alt="Obsidian" title="Obsidian" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/notion-auto.svg" alt="Notion" title="Notion" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/joplin-auto.svg" alt="Joplin" title="Joplin" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/datadog.svg" alt="Datadog" title="Datadog" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vmwareworkstation-auto.svg" alt="VMWare" title="VMWare" width="50" height="50" hspace="2" loading="lazy">
-        <img src="./assets/vagrant-auto.svg" alt="Vagrant" title="Vagrant" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/jupyter-auto.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/arduino.svg" alt="Arduino" title="Arduino" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+## PDEs, IDEs, Frameworks and DevOps Tools
 
-## Game Development Tools and Engines  
+![Neovim](./assets/neovim-modern-auto.svg) ![Vim](./assets/vim-auto.svg) ![Visual Studio Code](./assets/vscode-auto.svg) ![Visual Studio Code Insiders](./assets/vscodeinsiders-auto.svg) ![Visual Studio](./assets/visualstudio-auto.svg) ![Kiro](./assets/kiro.svg) ![Cursor](./assets/cursor-auto.svg) ![Antigravity](./assets/antigravity-auto.svg) ![Xcode](./assets/xcode-auto.svg) ![IntelliJ Idea](./assets/idea-auto.svg) ![Eclipse](./assets/eclipse-auto.svg) ![Sublime](./assets/sublime-auto.svg) ![Atom](./assets/atom.svg) ![Bash](./assets/bash-auto.svg) ![WARP](./assets/warp-auto.svg) ![Windows Terminal](./assets/terminal-auto.svg) ![iTerm](./assets/iterm-auto.svg) ![Kitty](./assets/kitty-auto.svg) ![SVN](./assets/svn.svg) ![Git](./assets/git-auto.svg) ![Git Bash](./assets/gitbash-auto.svg) ![Github](./assets/github-auto.svg) ![Gitlab](./assets/gitlab-auto.svg) ![Circle CI/CD](./assets/ci-cd-alternative-auto.svg) ![Docker](./assets/docker.svg) ![AWS](./assets/aws-auto.svg) ![Amazon EC2](./assets/ec2.svg) ![Amazon ECS](./assets/ecs.svg) ![AWS Fargate](./assets/fargate.svg) ![AWS Elastic Beanstalk](./assets/elasticbeanstalk.svg) ![AWS Lambda](./assets/lambda.svg) ![Amazon S3](./assets/s3-auto.svg) ![Amazon RDS](./assets/rds.svg)
 
-<div>
-    <picture>
-        <img src="./assets/unity-auto.svg" alt="Unity" title="Unity" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/godot-auto.svg" alt="Godot" title="Godot" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nintendo-engines-dark.svg" alt="Module System Engine NintendoWare™" title="Module System Engine NintendoWare™" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nintendo-engines-dark.svg" alt="King System Engine NintendoWare™" title="King System Engine NintendoWare™" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nintendo-engines-light.svg" alt="Bezel Engine NintendoWare™" title="Bezel Engine NintendoWare™" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nintendo-ndi-dark.svg" alt="Nintendo Developer Interface" title="Nintendo Developer Interface" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/love2d-auto.svg" alt="Love2D" title="Love2D" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rpg-maker-nz.svg" alt="RPG Maker MZ" title="RPG Maker MZ" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/rpg-maker-xp.svg" alt="RPG Maker XP" title="RPG Maker XP" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Azure](./assets/azure-auto.svg) ![Salesforce](./assets/salesforce-auto.svg) ![Heroku](./assets/heroku.svg) ![Jira](./assets/jira-auto.svg) ![Kubernetes](./assets/kubernetes.svg) ![Trello](./assets/trello-auto.svg) ![ClickUp](./assets/clickup-auto.svg) ![Obsidian](./assets/obsidian-auto.svg) ![Notion](./assets/notion-auto.svg) ![Joplin](./assets/joplin-auto.svg) ![Datadog](./assets/datadog.svg) ![VMWare](./assets/vmwareworkstation-auto.svg) ![Vagrant](./assets/vagrant-auto.svg) ![Jupyter Notebook](./assets/jupyter-auto.svg) ![Arduino](./assets/arduino.svg)
 
-## Operational Systems  
+## Game Development Tools and Engines
 
-<div>
-    <picture>
-        <img src="./assets/windows-auto.svg" alt="Windows" title="Windows" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/macos-auto.svg" alt="macOS" title="macOS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/linux-auto.svg" alt="Linux" title="Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ubuntu.svg" alt="Ubuntu Linux" title="Ubuntu Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/debian.svg" alt="Debian Linux" title="Debian Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/fedora-auto.svg" alt="Fedora Linux" title="Fedora Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/arch-auto.svg" alt="Arch Linux" title="Arch Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/kali-auto.svg" alt="Kali Linux" title="Kali Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/qubesos-auto.svg" alt="QubesOS" title="QubesOS" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/popos.svg" alt="PopOS_! Linux" title="PopOS_! Linux" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/zorinos-light.svg" alt="Zorin Linux" title="Zorin Linux" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Unity](./assets/unity-auto.svg) ![Godot](./assets/godot-auto.svg) ![Module System Engine NintendoWare™](./assets/nintendo-engines-dark.svg) ![King System Engine NintendoWare™](./assets/nintendo-engines-dark.svg) ![Bezel Engine NintendoWare™](./assets/nintendo-engines-light.svg) ![Nintendo Developer Interface](./assets/nintendo-ndi-dark.svg) ![Love2D](./assets/love2d-auto.svg) ![RPG Maker MZ](./assets/rpg-maker-nz.svg) ![RPG Maker XP](./assets/rpg-maker-xp.svg)
 
-## AI and Agent Harness Tools  
+## Operational Systems
 
-<div>
-    <picture>
-        <img src="./assets/claude-auto.svg" alt="Claude" title="Claude" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/minimax-dark.svg" alt="Minimax" title="Minimax" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/chatgpt-auto.svg" alt="Chat GPT" title="Chat GPT" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/kimi.svg" alt="Kimi" title="Kimi" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/ollama-auto.svg" alt="Ollama" title="Ollama" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/perplexity-auto.svg" alt="Perplexity" title="Perplexity" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/grok-auto.svg" alt="Grok" title="Grok" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/microsoftcopilot-auto.svg" alt="Microsoft Copilot" title="Microsoft Copilot" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/openclaw-moltbot-auto.svg" alt="OpenClaw" title="OpenClaw" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/githubcopilot-auto.svg" alt="Github Copilot" title="Github Copilot" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/gemini-auto.svg" alt="Gemini" title="Gemini" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/claude-code-dark.svg" alt="Claude Code" title="Claude Code" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/opencode-auto.svg" alt="OpenCode" title="OpenCode" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/hermes-agent-dark.svg" alt="Hermes Agent" title="Hermes Agent" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/open-webui-auto.svg" alt="Open Web-UI" title="Open Web-UI" width="48" height="48" hspace="2" loading="lazy">
-        <img src="./assets/open-router-auto.svg" alt="Open Router" title="Open Router" width="48" height="48" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Windows](./assets/windows-auto.svg) ![macOS](./assets/macos-auto.svg) ![Linux](./assets/linux-auto.svg) ![Ubuntu Linux](./assets/ubuntu.svg) ![Debian Linux](./assets/debian.svg) ![Fedora Linux](./assets/fedora-auto.svg) ![Arch Linux](./assets/arch-auto.svg) ![Kali Linux](./assets/kali-auto.svg) ![QubesOS](./assets/qubesos-auto.svg) ![PopOS Linux](./assets/popos.svg) ![Zorin Linux](./assets/zorinos-light.svg)
 
-## Multimedia Tools  
+## AI and Agent Harness Tools
 
-<div>
-    <picture>
-        <img src="./assets/logic-pro-dark.svg" alt="Logic Pro" title="Logic Pro" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/ableton-auto.svg" alt="Ableton Live" title="Ableton Live" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/fl-studio-orange.svg" alt="FL Studio" title="FL Studio" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/cubase-auto.svg" alt="Cubase" title="Cubase" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/bitwig-orange-dark.svg" alt="Bitwig Pro" title="Bitwig" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/audition.svg" alt="Adobe Audition" title="Adobe Audition" width="50" height="50" hspace="2" loading="lazy">
-        <img src="./assets/audacity-auto.svg" alt="Audacity" title="Audacity" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/figma-auto.svg" alt="Figma" title="Figma" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/aseprite-dark.svg" alt="Aseprite" title="Aseprite" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/paint-tool-sai-auto.svg" alt="Paint Tool SAI" title="Paint Tool SAI" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/lightroom.svg" alt="Adobe Lightroom" title="Adobe Lightroom" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/dreamweaver.svg" alt="Adobe Dreamweaver" title="Adobe Dreamweaver" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/premiere.svg" alt="Adobe Premiere" title="Adobe Premiere" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/figma-auto.svg" alt="Figma" title="Figma" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/sketch-light.svg" alt="Sketch" title="Sketch" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/xd.svg" alt="Adobe XD" title="Adobe XD" width="50" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Claude](./assets/claude-auto.svg) ![Minimax](./assets/minimax-dark.svg) ![Chat GPT](./assets/chatgpt-auto.svg) ![Kimi](./assets/kimi.svg) ![Ollama](./assets/ollama-auto.svg) ![Perplexity](./assets/perplexity-auto.svg) ![Grok](./assets/grok-auto.svg) ![Microsoft Copilot](./assets/microsoftcopilot-auto.svg) ![OpenClaw](./assets/openclaw-moltbot-auto.svg) ![Github Copilot](./assets/githubcopilot-auto.svg) ![Gemini](./assets/gemini-auto.svg) ![Claude Code](./assets/claude-code-dark.svg) ![OpenCode](./assets/opencode-auto.svg) ![Hermes Agent](./assets/hermes-agent-dark.svg) ![Open Web-UI](./assets/open-webui-auto.svg) ![Open Router](./assets/open-router-auto.svg)
 
-## Gaming Platforms  
+## Multimedia Tools
 
-<div>
-    <picture>
-        <img src="./assets/steam-dark.svg" alt="Steam" title="Steam" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/nintendo-switch.svg" alt="Nintendo Switch" title="Nintendo Switch" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/playstation-light.svg" alt="Xbox" title="Xbox" width="48" height="50" hspace="2" loading="lazy">
-        <img src="./assets/xbox-auto.svg" alt="Xbox" title="Xbox" width="48" height="50" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Logic Pro](./assets/logic-pro-dark.svg) ![Ableton Live](./assets/ableton-auto.svg) ![FL Studio](./assets/fl-studio-orange.svg) ![Cubase](./assets/cubase-auto.svg) ![Bitwig](./assets/bitwig-orange-dark.svg) ![Adobe Audition](./assets/audition.svg) ![Audacity](./assets/audacity-auto.svg) ![Figma](./assets/figma-auto.svg) ![Aseprite](./assets/aseprite-dark.svg) ![Paint Tool SAI](./assets/paint-tool-sai-auto.svg) ![Adobe Photoshop](./assets/photoshop.svg) ![Adobe Lightroom](./assets/lightroom.svg) ![Adobe Illustrator](./assets/illustrator.svg) ![Adobe Dreamweaver](./assets/dreamweaver.svg) ![Adobe Premiere](./assets/premiere.svg) ![Figma](./assets/figma-auto.svg) ![Sketch](./assets/sketch-light.svg) ![Adobe XD](./assets/xd.svg)
+
+## Gaming Platforms
+
+![Steam](./assets/steam-dark.svg) ![Nintendo Switch](./assets/nintendo-switch.svg) ![Xbox](./assets/playstation-light.svg) ![Xbox](./assets/xbox-auto.svg)
 
 ## Github Achievements
 
-<div>
-    <picture>
-        <img src="./assets/badges/starstruck-default.png" alt="Starstruck" title="Starstruck Badge - Unlocked in 2025" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/pull-shark-default.png" alt="Pull Shark" title="Pull Shark Badge - Unlocked in 2018" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/public-sponsor-default.png" alt="Sponsor" title="Sponsor - Unlocked in 2024" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/quickdraw-default.png" alt="Quickdraw" title="Quickdraw - Unlocked in 2024" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/heart-on-your-sleeve-default.png" alt="Heart on Your Sleeve" title="Heart on Your Sleeve - Unlocked in 2020" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/yolo-default.png" alt="YOLO" title="YOLO - Unlocked in 2024" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/open-sourcerer-default.png" alt="Open Sourcerer" title="Open Sourcerer - Unlocked in 2020" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor - Unlocked in 2020" width="80" height="80" hspace="2" loading="lazy">
-        <img src="./assets/badges/proxima-staffshipper-default.png" alt="Proxima Staffshipper" title="Proxima Staffshipper - Unlocked in 2023" width="80" height="80" hspace="2" loading="lazy">
-    </picture>
-</div>
+![Starstruck](./assets/badges/starstruck-default.png) ![Pull Shark](./assets/badges/pull-shark-default.png) ![Sponsor](./assets/badges/public-sponsor-default.png) ![Quickdraw](./assets/badges/quickdraw-default.png) ![Heart on Your Sleeve](./assets/badges/heart-on-your-sleeve-default.png) ![YOLO](./assets/badges/yolo-default.png) ![Open Sourcerer](./assets/badges/open-sourcerer-default.png) ![Arctic Code Vault Contributor](./assets/badges/arctic-code-vault-contributor-default.png) ![Proxima Staffshipper](./assets/badges/proxima-staffshipper-default.png)
 
 <br />
 
 > [!NOTE]
 > `CTRL` or `⌘` + `Click` this to open any links in a new tab.
-> 
-> Open Sourcerer and Heart on Your Sleeve achievements were part of an [*experimental rollout and got disabled broadly by Github*](https://github.com/orgs/community/discussions/190842#discussioncomment-16350078).  
->   
+>
+> Open Sourcerer and Heart on Your Sleeve achievements were part of an [*experimental rollout and got disabled broadly by Github*](https://github.com/orgs/community/discussions/190842#discussioncomment-16350078).
+>
 > [**Click here**](https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/refs/heads/main/assets/badges/evidence/dks_screenshot_saturday_march_28_2026_0h46m52s.png) for evidence.
 
-## Stats  
+## Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sdkitagawa&theme=dark&hide_border=false)
 
-##  Support my work  
+## Support my work
 
-<div>
-    <a href="https://www.buymeacoffee.com/sdkitagawa">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" title="Buy Me A Coffee" style="width: 250px !important" >
-    </a>
-</div>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png)](https://www.buymeacoffee.com/sdkitagawa)
 
 <!--
   * Profile Template by: @dkitagawa | Douglas Kitagawa
