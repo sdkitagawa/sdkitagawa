@@ -20,7 +20,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Tech Stack - Main Languages  
 
-<p align="left">
+<div>
     <picture>
         <img src="./assets/c.svg" alt="C" title="C" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50" hspace="2" loading="lazy">
@@ -29,7 +29,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
         <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50" hspace="2" loading="lazy">
         <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50" hspace="2" loading="lazy">
     </picture>
-</p>
+</div>
 
 ## Other Known Languages  
 
