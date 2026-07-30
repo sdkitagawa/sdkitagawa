@@ -21,16 +21,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Tech Stack - Main Languages  
 
-<table>
-  <tr>
-    <td><img src="./assets/c.svg" alt="C" title="C" width="48" height="50"></td>
-    <td><img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50"></td>
-    <td><img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50"></td>
-    <td><img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50"></td>
-    <td><img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50"></td>
-    <td><img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50"></td>
-  </tr>
-</table>
+<img src="./assets/c.svg" alt="C" title="C" width="48" height="50"> <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50"> <img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50"> <img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50"> <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50"> <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50">
 
 ## Other Known Languages  
 
