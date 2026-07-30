@@ -21,7 +21,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Tech Stack - Main Languages  
 
-<img src="./assets/c.svg" alt="C" title="C" width="48" height="50"> <img src="./assets/cpp.svg" alt="C++" title="C++" width="48" height="50"> <img src="./assets/lua-alternative-a-dark.svg" alt="Lua" title="Lua" width="50" height="50"> <img src="./assets/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="50"> <img src="./assets/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="50"> <img src="./assets/python-auto.svg" alt="Python" title="Python" width="48" height="50">
+![C](./assets/c.svg) ![C++](./assets/cpp.svg) ![Lua](./assets/lua-alternative-a-dark.svg) ![JavaScript](./assets/javascript.svg) ![TypeScript](./assets/typescript.svg) ![Python](./assets/python-auto.svg)
 
 ## Other Known Languages  
 
