@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -7,14 +7,43 @@ const ROOT = resolve(__dirname, '..');
 const ASSETS = resolve(ROOT, 'assets');
 const OUT = resolve(ASSETS, 'composites');
 
-const BASE = 'https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main';
-
 let readme = readFileSync(resolve(ROOT, 'README.md'), 'utf-8');
 readme = readme.replace(/\r\n/g, '\n');
 
 const sectionRegex = /## (.+?)\s*\n\n<table[^>]*>[\s\S]*?<\/table>/g;
 
 const ICONS_PER_ROW = 20;
+
+function cleanSvgContent(raw) {
+  let content = raw.replace(/<\?xml[^>]*\?>/, '').trim();
+  const m = content.match(/<svg[\s\S]*?(<\/svg>)/i);
+  if (!m) return null;
+  let inner = m[0];
+
+  // For SVGs with embedded PNG and hidden vectors: strip the <image> and unhide vectors
+  const hasPngOverlay = /<image[^>]*xlink:href="data:image\/png;base64[^>]*>/.test(inner);
+  const hasDisplayNone = /display\s*:\s*none/.test(inner);
+
+  if (hasPngOverlay && hasDisplayNone) {
+    // Remove the <image> element with base64 PNG data
+    inner = inner.replace(/<image[\s\S]*?xlink:href="data:image\/png;base64[^"]*"[\s\S]*?\/?>/g, '');
+    // Change display:none to display:inline in <style> blocks
+    inner = inner.replace(/display\s*:\s*none\s*;/g, 'display:inline;');
+    // Also handle class-based display:none
+    inner = inner.replace(/\.st\d+\s*\{\s*display\s*:\s*none\s*;\s*\}/g, '');
+  }
+
+  // Strip width/height from SVG tag (we set these on the wrapper)
+  inner = inner.replace(/<svg[^>]*>/, (tag) => {
+    return tag.replace(/\s*(width|height)="[^"]*"/g, '');
+  });
+
+  // Extract viewBox from the SVG tag
+  const vbMatch = inner.match(/viewBox="([^"]+)"/);
+  const viewBox = vbMatch ? vbMatch[1] : '0 0 256 256';
+
+  return { content: inner, viewBox };
+}
 
 let match;
 const replacements = [];
@@ -72,9 +101,16 @@ while ((match = sectionRegex.exec(readme)) !== null) {
         continue;
       }
 
-      // Use absolute raw URL for each icon SVG
-      const iconUrl = BASE + '/' + icon.src.replace(/^\.\//, '');
-      svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="${iconUrl}" aria-label="${icon.alt}"/>`);
+      const rawSvg = readFileSync(absPath, 'utf-8');
+      const cleaned = cleanSvgContent(rawSvg);
+      if (!cleaned) {
+        console.warn(`  ⚠  Could not parse: ${absPath}`);
+        continue;
+      }
+
+      svgParts.push(`  <svg x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" viewBox="${cleaned.viewBox}" aria-label="${icon.alt}">`);
+      svgParts.push(`    ${cleaned.content}`);
+      svgParts.push(`  </svg>`);
     }
   }
 
