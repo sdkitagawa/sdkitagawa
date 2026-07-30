@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="52" viewBox="0 0 550 52">
-  <image x="0" y="0" width="48" height="50" href="../assembly.svg" aria-label="Assembly"/>
-  <image x="50" y="0" width="48" height="50" href="../cs.svg" aria-label="C#"/>
-  <image x="100" y="0" width="48" height="50" href="../java-auto.svg" aria-label="Java"/>
-  <image x="150" y="0" width="48" height="50" href="../delphi-auto.svg" aria-label="Delphi"/>
-  <image x="200" y="0" width="48" height="50" href="../rust-auto.svg" aria-label="Rust"/>
-  <image x="250" y="0" width="48" height="50" href="../zig-auto.svg" aria-label="Zig"/>
-  <image x="300" y="0" width="48" height="50" href="../golang.svg" aria-label="GOLang"/>
-  <image x="350" y="0" width="48" height="50" href="../corese-auto.svg" aria-label="CoreSE"/>
-  <image x="400" y="0" width="48" height="50" href="../visualbasic-auto.svg" aria-label="Visual Basic"/>
-  <image x="450" y="0" width="48" height="50" href="../php-auto.svg" aria-label="PHP"/>
-  <image x="500" y="0" width="48" height="50" href="../ruby-auto.svg" aria-label="Ruby"/>
+  <image x="0" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/assembly.svg" aria-label="Assembly"/>
+  <image x="50" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/cs.svg" aria-label="C#"/>
+  <image x="100" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/java-auto.svg" aria-label="Java"/>
+  <image x="150" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/delphi-auto.svg" aria-label="Delphi"/>
+  <image x="200" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/rust-auto.svg" aria-label="Rust"/>
+  <image x="250" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/zig-auto.svg" aria-label="Zig"/>
+  <image x="300" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/golang.svg" aria-label="GOLang"/>
+  <image x="350" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/corese-auto.svg" aria-label="CoreSE"/>
+  <image x="400" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/visualbasic-auto.svg" aria-label="Visual Basic"/>
+  <image x="450" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/php-auto.svg" aria-label="PHP"/>
+  <image x="500" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ruby-auto.svg" aria-label="Ruby"/>
 </svg>

@@ -1,11 +1,13 @@
-import { readFileSync, writeFileSync, mkdirSync } from 'fs';
-import { dirname, resolve, relative } from 'path';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'fs';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
 const ASSETS = resolve(ROOT, 'assets');
 const OUT = resolve(ASSETS, 'composites');
+
+const BASE = 'https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main';
 
 let readme = readFileSync(resolve(ROOT, 'README.md'), 'utf-8');
 readme = readme.replace(/\r\n/g, '\n');
@@ -40,9 +42,6 @@ while ((match = sectionRegex.exec(readme)) !== null) {
 
   if (icons.length === 0) continue;
 
-  const isPng = (src) => /\.png$/i.test(src);
-  const hasPng = icons.some(i => isPng(i.src));
-
   const slotW = Math.max(...icons.map(i => i.width)) + 2;
   const slotH = Math.max(...icons.map(i => i.height)) + 2;
 
@@ -65,17 +64,17 @@ while ((match = sectionRegex.exec(readme)) !== null) {
       const y = rowIdx * slotH;
 
       const absPath = resolve(dirname(resolve(ROOT, 'README.md')), icon.src);
-      const relPath = relative(OUT, absPath).replace(/\\/g, '/');
 
-      if (isPng(icon.src)) {
+      if (/\.png$/i.test(icon.src)) {
         const pngBuffer = readFileSync(absPath);
         const b64 = pngBuffer.toString('base64');
-        const dataUri = `data:image/png;base64,${b64}`;
-        svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="${dataUri}" aria-label="${icon.alt}"/>`);
+        svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="data:image/png;base64,${b64}" aria-label="${icon.alt}"/>`);
         continue;
       }
 
-      svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="${relPath}" aria-label="${icon.alt}"/>`);
+      // Use absolute raw URL for each icon SVG
+      const iconUrl = BASE + '/' + icon.src.replace(/^\.\//, '');
+      svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="${iconUrl}" aria-label="${icon.alt}"/>`);
     }
   }
 
@@ -85,8 +84,9 @@ while ((match = sectionRegex.exec(readme)) !== null) {
   const outPath = resolve(OUT, `${slug}.svg`);
   mkdirSync(dirname(outPath), { recursive: true });
   writeFileSync(outPath, composite, 'utf-8');
-  console.log(`  ✓ ${slug}.svg — ${icons.length} icons${hasPng ? ' (PNGs base64-embedded)' : ''}`);
-  console.log(`      ${(composite.length / 1024).toFixed(0)} KB`);
+
+  const sizeKB = (composite.length / 1024).toFixed(0);
+  console.log(`  ✓ ${slug}.svg — ${icons.length} icons, ${sizeKB} KB`);
 
   const imgTag = `<img src="./assets/composites/${slug}.svg" alt="${sectionName}">`;
   replacements.push({ from: tableBlock, to: `## ${sectionName}  \n\n${imgTag}` });

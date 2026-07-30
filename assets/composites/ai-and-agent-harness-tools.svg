@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="50" viewBox="0 0 800 50">
-  <image x="0" y="0" width="48" height="48" href="../claude-auto.svg" aria-label="Claude"/>
-  <image x="50" y="0" width="48" height="48" href="../minimax-dark.svg" aria-label="Minimax"/>
-  <image x="100" y="0" width="48" height="48" href="../chatgpt-auto.svg" aria-label="Chat GPT"/>
-  <image x="150" y="0" width="48" height="48" href="../kimi.svg" aria-label="Kimi"/>
-  <image x="200" y="0" width="48" height="48" href="../ollama-auto.svg" aria-label="Ollama"/>
-  <image x="250" y="0" width="48" height="48" href="../perplexity-auto.svg" aria-label="Perplexity"/>
-  <image x="300" y="0" width="48" height="48" href="../grok-auto.svg" aria-label="Grok"/>
-  <image x="350" y="0" width="48" height="48" href="../microsoftcopilot-auto.svg" aria-label="Microsoft Copilot"/>
-  <image x="400" y="0" width="48" height="48" href="../openclaw-moltbot-auto.svg" aria-label="OpenClaw"/>
-  <image x="450" y="0" width="48" height="48" href="../githubcopilot-auto.svg" aria-label="Github Copilot"/>
-  <image x="500" y="0" width="48" height="48" href="../gemini-auto.svg" aria-label="Gemini"/>
-  <image x="550" y="0" width="48" height="48" href="../claude-code-dark.svg" aria-label="Claude Code"/>
-  <image x="600" y="0" width="48" height="48" href="../opencode-auto.svg" aria-label="OpenCode"/>
-  <image x="650" y="0" width="48" height="48" href="../hermes-agent-dark.svg" aria-label="Hermes Agent"/>
-  <image x="700" y="0" width="48" height="48" href="../open-webui-auto.svg" aria-label="Open Web-UI"/>
-  <image x="750" y="0" width="48" height="48" href="../open-router-auto.svg" aria-label="Open Router"/>
+  <image x="0" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/claude-auto.svg" aria-label="Claude"/>
+  <image x="50" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/minimax-dark.svg" aria-label="Minimax"/>
+  <image x="100" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/chatgpt-auto.svg" aria-label="Chat GPT"/>
+  <image x="150" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/kimi.svg" aria-label="Kimi"/>
+  <image x="200" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ollama-auto.svg" aria-label="Ollama"/>
+  <image x="250" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/perplexity-auto.svg" aria-label="Perplexity"/>
+  <image x="300" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/grok-auto.svg" aria-label="Grok"/>
+  <image x="350" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/microsoftcopilot-auto.svg" aria-label="Microsoft Copilot"/>
+  <image x="400" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/openclaw-moltbot-auto.svg" aria-label="OpenClaw"/>
+  <image x="450" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/githubcopilot-auto.svg" aria-label="Github Copilot"/>
+  <image x="500" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/gemini-auto.svg" aria-label="Gemini"/>
+  <image x="550" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/claude-code-dark.svg" aria-label="Claude Code"/>
+  <image x="600" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/opencode-auto.svg" aria-label="OpenCode"/>
+  <image x="650" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/hermes-agent-dark.svg" aria-label="Hermes Agent"/>
+  <image x="700" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/open-webui-auto.svg" aria-label="Open Web-UI"/>
+  <image x="750" y="0" width="48" height="48" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/open-router-auto.svg" aria-label="Open Router"/>
 </svg>

@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="936" height="52" viewBox="0 0 936 52">
-  <image x="0" y="0" width="48" height="50" href="../logic-pro-dark.svg" aria-label="Logic Pro"/>
-  <image x="52" y="0" width="48" height="50" href="../ableton-auto.svg" aria-label="Ableton Live"/>
-  <image x="104" y="0" width="48" height="50" href="../fl-studio-orange.svg" aria-label="FL Studio"/>
-  <image x="156" y="0" width="48" height="50" href="../cubase-auto.svg" aria-label="Cubase"/>
-  <image x="208" y="0" width="48" height="50" href="../bitwig-orange-dark.svg" aria-label="Bitwig Pro"/>
-  <image x="260" y="0" width="50" height="50" href="../audition.svg" aria-label="Adobe Audition"/>
-  <image x="312" y="0" width="48" height="50" href="../audacity-auto.svg" aria-label="Audacity"/>
-  <image x="364" y="0" width="48" height="50" href="../figma-auto.svg" aria-label="Figma"/>
-  <image x="416" y="0" width="48" height="50" href="../aseprite-dark.svg" aria-label="Aseprite"/>
-  <image x="468" y="0" width="48" height="50" href="../paint-tool-sai-auto.svg" aria-label="Paint Tool SAI"/>
-  <image x="520" y="0" width="48" height="50" href="../photoshop.svg" aria-label="Adobe Photoshop"/>
-  <image x="572" y="0" width="48" height="50" href="../lightroom.svg" aria-label="Adobe Lightroom"/>
-  <image x="624" y="0" width="48" height="50" href="../illustrator.svg" aria-label="Adobe Illustrator"/>
-  <image x="676" y="0" width="48" height="50" href="../dreamweaver.svg" aria-label="Adobe Dreamweaver"/>
-  <image x="728" y="0" width="48" height="50" href="../premiere.svg" aria-label="Adobe Premiere"/>
-  <image x="780" y="0" width="48" height="50" href="../figma-auto.svg" aria-label="Figma"/>
-  <image x="832" y="0" width="48" height="50" href="../sketch-light.svg" aria-label="Sketch"/>
-  <image x="884" y="0" width="50" height="50" href="../xd.svg" aria-label="Adobe XD"/>
+  <image x="0" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/logic-pro-dark.svg" aria-label="Logic Pro"/>
+  <image x="52" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ableton-auto.svg" aria-label="Ableton Live"/>
+  <image x="104" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/fl-studio-orange.svg" aria-label="FL Studio"/>
+  <image x="156" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/cubase-auto.svg" aria-label="Cubase"/>
+  <image x="208" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/bitwig-orange-dark.svg" aria-label="Bitwig Pro"/>
+  <image x="260" y="0" width="50" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/audition.svg" aria-label="Adobe Audition"/>
+  <image x="312" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/audacity-auto.svg" aria-label="Audacity"/>
+  <image x="364" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/figma-auto.svg" aria-label="Figma"/>
+  <image x="416" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/aseprite-dark.svg" aria-label="Aseprite"/>
+  <image x="468" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/paint-tool-sai-auto.svg" aria-label="Paint Tool SAI"/>
+  <image x="520" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/photoshop.svg" aria-label="Adobe Photoshop"/>
+  <image x="572" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/lightroom.svg" aria-label="Adobe Lightroom"/>
+  <image x="624" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/illustrator.svg" aria-label="Adobe Illustrator"/>
+  <image x="676" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/dreamweaver.svg" aria-label="Adobe Dreamweaver"/>
+  <image x="728" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/premiere.svg" aria-label="Adobe Premiere"/>
+  <image x="780" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/figma-auto.svg" aria-label="Figma"/>
+  <image x="832" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/sketch-light.svg" aria-label="Sketch"/>
+  <image x="884" y="0" width="50" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/xd.svg" aria-label="Adobe XD"/>
 </svg>

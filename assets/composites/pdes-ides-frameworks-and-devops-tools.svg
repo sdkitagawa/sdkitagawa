@@ -1,50 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1040" height="156" viewBox="0 0 1040 156">
-  <image x="0" y="0" width="48" height="50" href="../neovim-modern-auto.svg" aria-label="Neovim"/>
-  <image x="52" y="0" width="48" height="50" href="../vim-auto.svg" aria-label="Vim"/>
-  <image x="104" y="0" width="48" height="50" href="../vscode-auto.svg" aria-label="Visual Studio Code"/>
-  <image x="156" y="0" width="48" height="50" href="../vscodeinsiders-auto.svg" aria-label="Visual Studio Code Insiders"/>
-  <image x="208" y="0" width="48" height="50" href="../visualstudio-auto.svg" aria-label="Visual Studio"/>
-  <image x="260" y="0" width="48" height="50" href="../kiro.svg" aria-label="Kiro"/>
-  <image x="312" y="0" width="48" height="50" href="../cursor-auto.svg" aria-label="Cursor"/>
-  <image x="364" y="0" width="48" height="50" href="../antigravity-auto.svg" aria-label="Antigravity"/>
-  <image x="416" y="0" width="48" height="50" href="../xcode-auto.svg" aria-label="Xcode"/>
-  <image x="468" y="0" width="48" height="50" href="../idea-auto.svg" aria-label="IntelliJ Idea"/>
-  <image x="520" y="0" width="48" height="50" href="../eclipse-auto.svg" aria-label="Eclipse"/>
-  <image x="572" y="0" width="48" height="50" href="../sublime-auto.svg" aria-label="Sublime"/>
-  <image x="624" y="0" width="48" height="50" href="../atom.svg" aria-label="Atom"/>
-  <image x="676" y="0" width="48" height="50" href="../bash-auto.svg" aria-label="Bash"/>
-  <image x="728" y="0" width="48" height="50" href="../warp-auto.svg" aria-label="WARP"/>
-  <image x="780" y="0" width="48" height="50" href="../terminal-auto.svg" aria-label="Windows Terminal"/>
-  <image x="832" y="0" width="48" height="50" href="../iterm-auto.svg" aria-label="iTerm"/>
-  <image x="884" y="0" width="48" height="50" href="../kitty-auto.svg" aria-label="Kitty"/>
-  <image x="936" y="0" width="48" height="50" href="../svn.svg" aria-label="SVN"/>
-  <image x="988" y="0" width="48" height="50" href="../git-auto.svg" aria-label="Git"/>
-  <image x="0" y="52" width="48" height="50" href="../gitbash-auto.svg" aria-label="Git Bash"/>
-  <image x="52" y="52" width="48" height="50" href="../github-auto.svg" aria-label="Github"/>
-  <image x="104" y="52" width="48" height="50" href="../gitlab-auto.svg" aria-label="Gitlab"/>
-  <image x="156" y="52" width="48" height="50" href="../ci-cd-alternative-auto.svg" aria-label="Circle CI/CD"/>
-  <image x="208" y="52" width="48" height="50" href="../docker.svg" aria-label="Docker"/>
-  <image x="260" y="52" width="48" height="50" href="../aws-auto.svg" aria-label="AWS"/>
-  <image x="312" y="52" width="48" height="50" href="../ec2.svg" aria-label="Amazon EC2"/>
-  <image x="364" y="52" width="48" height="50" href="../ecs.svg" aria-label="Amazon ECS"/>
-  <image x="416" y="52" width="48" height="50" href="../fargate.svg" aria-label="AWS Fargate"/>
-  <image x="468" y="52" width="48" height="50" href="../elasticbeanstalk.svg" aria-label="AWS Elastic Beanstalk"/>
-  <image x="520" y="52" width="48" height="50" href="../lambda.svg" aria-label="AWS Lambda"/>
-  <image x="572" y="52" width="48" height="50" href="../s3-auto.svg" aria-label="Amazon S3"/>
-  <image x="624" y="52" width="48" height="50" href="../rds.svg" aria-label="Amazon RDS"/>
-  <image x="676" y="52" width="48" height="50" href="../azure-auto.svg" aria-label="Azure"/>
-  <image x="728" y="52" width="48" height="50" href="../salesforce-auto.svg" aria-label="Salesforce"/>
-  <image x="780" y="52" width="48" height="50" href="../heroku.svg" aria-label="Heroku"/>
-  <image x="832" y="52" width="48" height="50" href="../jira-auto.svg" aria-label="Jira"/>
-  <image x="884" y="52" width="48" height="50" href="../kubernetes.svg" aria-label="Kubernetes"/>
-  <image x="936" y="52" width="48" height="50" href="../trello-auto.svg" aria-label="Trello"/>
-  <image x="988" y="52" width="48" height="50" href="../clickup-auto.svg" aria-label="ClickUp"/>
-  <image x="0" y="104" width="48" height="50" href="../obsidian-auto.svg" aria-label="Obsidian"/>
-  <image x="52" y="104" width="48" height="50" href="../notion-auto.svg" aria-label="Notion"/>
-  <image x="104" y="104" width="48" height="50" href="../joplin-auto.svg" aria-label="Joplin"/>
-  <image x="156" y="104" width="48" height="50" href="../datadog.svg" aria-label="Datadog"/>
-  <image x="208" y="104" width="50" height="50" href="../vmwareworkstation-auto.svg" aria-label="VMWare"/>
-  <image x="260" y="104" width="48" height="50" href="../vagrant-auto.svg" aria-label="Vagrant"/>
-  <image x="312" y="104" width="48" height="50" href="../jupyter-auto.svg" aria-label="Jupyter Notebook"/>
-  <image x="364" y="104" width="48" height="50" href="../arduino.svg" aria-label="Arduino"/>
+  <image x="0" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/neovim-modern-auto.svg" aria-label="Neovim"/>
+  <image x="52" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/vim-auto.svg" aria-label="Vim"/>
+  <image x="104" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/vscode-auto.svg" aria-label="Visual Studio Code"/>
+  <image x="156" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/vscodeinsiders-auto.svg" aria-label="Visual Studio Code Insiders"/>
+  <image x="208" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/visualstudio-auto.svg" aria-label="Visual Studio"/>
+  <image x="260" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/kiro.svg" aria-label="Kiro"/>
+  <image x="312" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/cursor-auto.svg" aria-label="Cursor"/>
+  <image x="364" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/antigravity-auto.svg" aria-label="Antigravity"/>
+  <image x="416" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/xcode-auto.svg" aria-label="Xcode"/>
+  <image x="468" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/idea-auto.svg" aria-label="IntelliJ Idea"/>
+  <image x="520" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/eclipse-auto.svg" aria-label="Eclipse"/>
+  <image x="572" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/sublime-auto.svg" aria-label="Sublime"/>
+  <image x="624" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/atom.svg" aria-label="Atom"/>
+  <image x="676" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/bash-auto.svg" aria-label="Bash"/>
+  <image x="728" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/warp-auto.svg" aria-label="WARP"/>
+  <image x="780" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/terminal-auto.svg" aria-label="Windows Terminal"/>
+  <image x="832" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/iterm-auto.svg" aria-label="iTerm"/>
+  <image x="884" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/kitty-auto.svg" aria-label="Kitty"/>
+  <image x="936" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/svn.svg" aria-label="SVN"/>
+  <image x="988" y="0" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/git-auto.svg" aria-label="Git"/>
+  <image x="0" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/gitbash-auto.svg" aria-label="Git Bash"/>
+  <image x="52" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/github-auto.svg" aria-label="Github"/>
+  <image x="104" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/gitlab-auto.svg" aria-label="Gitlab"/>
+  <image x="156" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ci-cd-alternative-auto.svg" aria-label="Circle CI/CD"/>
+  <image x="208" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/docker.svg" aria-label="Docker"/>
+  <image x="260" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/aws-auto.svg" aria-label="AWS"/>
+  <image x="312" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ec2.svg" aria-label="Amazon EC2"/>
+  <image x="364" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/ecs.svg" aria-label="Amazon ECS"/>
+  <image x="416" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/fargate.svg" aria-label="AWS Fargate"/>
+  <image x="468" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/elasticbeanstalk.svg" aria-label="AWS Elastic Beanstalk"/>
+  <image x="520" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/lambda.svg" aria-label="AWS Lambda"/>
+  <image x="572" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/s3-auto.svg" aria-label="Amazon S3"/>
+  <image x="624" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/rds.svg" aria-label="Amazon RDS"/>
+  <image x="676" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/azure-auto.svg" aria-label="Azure"/>
+  <image x="728" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/salesforce-auto.svg" aria-label="Salesforce"/>
+  <image x="780" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/heroku.svg" aria-label="Heroku"/>
+  <image x="832" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/jira-auto.svg" aria-label="Jira"/>
+  <image x="884" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/kubernetes.svg" aria-label="Kubernetes"/>
+  <image x="936" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/trello-auto.svg" aria-label="Trello"/>
+  <image x="988" y="52" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/clickup-auto.svg" aria-label="ClickUp"/>
+  <image x="0" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/obsidian-auto.svg" aria-label="Obsidian"/>
+  <image x="52" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/notion-auto.svg" aria-label="Notion"/>
+  <image x="104" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/joplin-auto.svg" aria-label="Joplin"/>
+  <image x="156" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/datadog.svg" aria-label="Datadog"/>
+  <image x="208" y="104" width="50" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/vmwareworkstation-auto.svg" aria-label="VMWare"/>
+  <image x="260" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/vagrant-auto.svg" aria-label="Vagrant"/>
+  <image x="312" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/jupyter-auto.svg" aria-label="Jupyter Notebook"/>
+  <image x="364" y="104" width="48" height="50" href="https://raw.githubusercontent.com/sdkitagawa/sdkitagawa/main/assets/arduino.svg" aria-label="Arduino"/>
 </svg>
