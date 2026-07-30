@@ -1,14 +1,41 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
+import { createInterface } from 'readline';
 import sharp from 'sharp';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = resolve(__dirname, '..');
+function resolveReadmePath() {
+  const args = process.argv.slice(2);
+  const flagIdx = args.indexOf('--readme');
+  if (flagIdx !== -1 && flagIdx + 1 < args.length)
+    return resolve(process.cwd(), args[flagIdx + 1]);
+  for (const a of args) {
+    if (a.startsWith('--readme='))
+      return resolve(process.cwd(), a.slice('--readme='.length));
+    if (!a.startsWith('--'))
+      return resolve(process.cwd(), a);
+  }
+  return null;
+}
+
+let readmePath = resolveReadmePath();
+
+if (!readmePath) {
+  const rl = createInterface({ input: process.stdin, output: process.stdout });
+  readmePath = await new Promise(resolve => {
+    rl.question('README file path (default: ./README.md): ', answer => {
+      rl.close();
+      resolve(answer.trim() || './README.md');
+    });
+  });
+  readmePath = resolve(process.cwd(), readmePath);
+}
+
+const ROOT = dirname(readmePath);
 const ASSETS = resolve(ROOT, 'assets');
 const OUT = resolve(ASSETS, 'composites');
 
-let readme = readFileSync(resolve(ROOT, 'README.md'), 'utf-8');
+let readme = readFileSync(readmePath, 'utf-8');
 readme = readme.replace(/\r\n/g, '\n');
 
 const sectionRegex = /## (.+?)\s*\n\n<div>\s*\n\s*<picture>\s*\n([\s\S]*?)\n\s*<\/picture>\s*\n\s*<\/div>/g;
@@ -71,7 +98,7 @@ async function main() {
         const x = colIdx * slotW + Math.round((slotW - icon.width) / 2);
         const y = rowIdx * slotH + Math.round((slotH - icon.height) / 2);
 
-        const absPath = resolve(dirname(resolve(ROOT, 'README.md')), icon.src);
+        const absPath = resolve(ROOT, icon.src);
 
         let input;
         if (/\.png$/i.test(icon.src)) {
@@ -125,7 +152,7 @@ async function main() {
     result = result.replace(from, to);
   }
 
-  writeFileSync(resolve(ROOT, 'README.md'), result, 'utf-8');
+  writeFileSync(readmePath, result, 'utf-8');
   console.log(`\nReplaced ${replacements.length} sections in README.md`);
 }
 
