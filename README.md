@@ -17,46 +17,47 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * ✔️ Always learning backend technologies.
+* :octocat: Also surfing on artificial intelligence stuff.
 
 ## Tech Stack - Main Languages  
 
-<img src="./assets/composites/tech-stack-main-languages.png" alt="Tech Stack - Main Languages">
+![Tech Stack - Main Languages](./assets/composites/tech-stack-main-languages.png)
 
 ## Other Known Languages  
 
-<img src="./assets/composites/other-known-languages.png" alt="Other Known Languages">
+![Other Known Languages](./assets/composites/other-known-languages.png)
 
 ## Web, Data Bases, Libraries, Runtimes and Technologies  
 
-<img src="./assets/composites/web-data-bases-libraries-runtimes-and-technologies.png" alt="Web, Data Bases, Libraries, Runtimes and Technologies">
+![Web, Data Bases, Libraries, Runtimes and Technologies](./assets/composites/web-data-bases-libraries-runtimes-and-technologies.png)
 
 ## PDEs, IDEs, Frameworks and DevOps Tools  
 
-<img src="./assets/composites/pdes-ides-frameworks-and-devops-tools.png" alt="PDEs, IDEs, Frameworks and DevOps Tools">
+![PDEs, IDEs, Frameworks and DevOps Tools](./assets/composites/pdes-ides-frameworks-and-devops-tools.png)
 
 ## Game Development Tools and Engines  
 
-<img src="./assets/composites/game-development-tools-and-engines.png" alt="Game Development Tools and Engines">
+![Game Development Tools and Engines](./assets/composites/game-development-tools-and-engines.png)
 
 ## Operational Systems  
 
-<img src="./assets/composites/operational-systems.png" alt="Operational Systems">
+![Operational Systems](./assets/composites/operational-systems.png)
 
 ## AI and Agent Harness Tools  
 
-<img src="./assets/composites/ai-and-agent-harness-tools.png" alt="AI and Agent Harness Tools">
+![AI and Agent Harness Tools](./assets/composites/ai-and-agent-harness-tools.png)
 
 ## Multimedia Tools  
 
-<img src="./assets/composites/multimedia-tools.png" alt="Multimedia Tools">
+![Multimedia Tools](./assets/composites/multimedia-tools.png)
 
 ## Gaming Platforms  
 
-<img src="./assets/composites/gaming-platforms.png" alt="Gaming Platforms">
+![Gaming Platforms](./assets/composites/gaming-platforms.png)
 
 ## Github Achievements  
 
-<img src="./assets/composites/github-achievements.png" alt="Github Achievements">
+![Github Achievements](./assets/composites/github-achievements.png)
 
 <br />
 
