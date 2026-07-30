@@ -21,43 +21,43 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Tech Stack - Main Languages  
 
-<img src="./assets/composites/tech-stack-main-languages.svg" alt="Tech Stack - Main Languages">
+<img src="./assets/composites/tech-stack-main-languages.png" alt="Tech Stack - Main Languages">
 
 ## Other Known Languages  
 
-<img src="./assets/composites/other-known-languages.svg" alt="Other Known Languages">
+<img src="./assets/composites/other-known-languages.png" alt="Other Known Languages">
 
 ## Web, Data Bases, Libraries, Runtimes and Technologies  
 
-<img src="./assets/composites/web-data-bases-libraries-runtimes-and-technologies.svg" alt="Web, Data Bases, Libraries, Runtimes and Technologies">
+<img src="./assets/composites/web-data-bases-libraries-runtimes-and-technologies.png" alt="Web, Data Bases, Libraries, Runtimes and Technologies">
 
 ## PDEs, IDEs, Frameworks and DevOps Tools  
 
-<img src="./assets/composites/pdes-ides-frameworks-and-devops-tools.svg" alt="PDEs, IDEs, Frameworks and DevOps Tools">
+<img src="./assets/composites/pdes-ides-frameworks-and-devops-tools.png" alt="PDEs, IDEs, Frameworks and DevOps Tools">
 
 ## Game Development Tools and Engines  
 
-<img src="./assets/composites/game-development-tools-and-engines.svg" alt="Game Development Tools and Engines">
+<img src="./assets/composites/game-development-tools-and-engines.png" alt="Game Development Tools and Engines">
 
 ## Operational Systems  
 
-<img src="./assets/composites/operational-systems.svg" alt="Operational Systems">
+<img src="./assets/composites/operational-systems.png" alt="Operational Systems">
 
 ## AI and Agent Harness Tools  
 
-<img src="./assets/composites/ai-and-agent-harness-tools.svg" alt="AI and Agent Harness Tools">
+<img src="./assets/composites/ai-and-agent-harness-tools.png" alt="AI and Agent Harness Tools">
 
 ## Multimedia Tools  
 
-<img src="./assets/composites/multimedia-tools.svg" alt="Multimedia Tools">
+<img src="./assets/composites/multimedia-tools.png" alt="Multimedia Tools">
 
 ## Gaming Platforms  
 
-<img src="./assets/composites/gaming-platforms.svg" alt="Gaming Platforms">
+<img src="./assets/composites/gaming-platforms.png" alt="Gaming Platforms">
 
 ## Github Achievements  
 
-<img src="./assets/composites/github-achievements.svg" alt="Github Achievements">
+<img src="./assets/composites/github-achievements.png" alt="Github Achievements">
 
 <br />
 

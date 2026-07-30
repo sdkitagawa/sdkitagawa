@@ -1,0 +1,11 @@
+{
+  "name": "sdkitagawa-readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-composites.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.3"
+  }
+}
