@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="52" viewBox="0 0 200 52">
+  <image x="0" y="0" width="48" height="50" href="../steam-dark.svg" aria-label="Steam"/>
+  <image x="50" y="0" width="48" height="50" href="../nintendo-switch.svg" aria-label="Nintendo Switch"/>
+  <image x="100" y="0" width="48" height="50" href="../playstation-light.svg" aria-label="Xbox"/>
+  <image x="150" y="0" width="48" height="50" href="../xbox-auto.svg" aria-label="Xbox"/>
+</svg>

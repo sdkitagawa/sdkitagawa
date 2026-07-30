@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="156" viewBox="0 0 1000 156">
+  <image x="0" y="0" width="48" height="50" href="../markdown-auto.svg" aria-label="Markdown"/>
+  <image x="50" y="0" width="48" height="50" href="../html.svg" aria-label="HTML"/>
+  <image x="100" y="0" width="48" height="50" href="../css.svg" aria-label="CSS"/>
+  <image x="150" y="0" width="48" height="50" href="../htmx-auto.svg" aria-label="HTMX"/>
+  <image x="200" y="0" width="48" height="50" href="../jquery.svg" aria-label="jQuery"/>
+  <image x="250" y="0" width="48" height="50" href="../yaml-auto.svg" aria-label="YAML"/>
+  <image x="300" y="0" width="48" height="50" href="../bootstrap.svg" aria-label="Bootstrap"/>
+  <image x="350" y="0" width="48" height="50" href="../mysql-auto.svg" aria-label="MySQL"/>
+  <image x="400" y="0" width="48" height="50" href="../mongodb.svg" aria-label="MongoDB"/>
+  <image x="450" y="0" width="48" height="50" href="../sqlite.svg" aria-label="SQLite"/>
+  <image x="500" y="0" width="48" height="50" href="../mariadb-auto.svg" aria-label="MongoDB"/>
+  <image x="550" y="0" width="48" height="50" href="../sqlserver-auto.svg" aria-label="Microsoft SQL Server"/>
+  <image x="600" y="0" width="48" height="50" href="../oracle-auto.svg" aria-label="Oracle"/>
+  <image x="650" y="0" width="48" height="50" href="../redis-dark.svg" aria-label="Redis"/>
+  <image x="700" y="0" width="48" height="50" href="../phpmyadmin-auto.svg" aria-label="phpMyAdmin"/>
+  <image x="750" y="0" width="48" height="50" href="../apache-auto.svg" aria-label="Apache"/>
+  <image x="800" y="0" width="48" height="50" href="../cpanel-auto.svg" aria-label="cPanel"/>
+  <image x="850" y="0" width="48" height="50" href="../filezilla-auto.svg" aria-label="FileZilla"/>
+  <image x="900" y="0" width="48" height="50" href="../ipboard-auto.svg" aria-label="Invision Power Board"/>
+  <image x="950" y="0" width="48" height="50" href="../gtk-auto.svg" aria-label="GTK"/>
+  <image x="0" y="52" width="48" height="50" href="../libuv-auto.svg" aria-label="Openresty"/>
+  <image x="50" y="52" width="48" height="50" href="../sdl-auto.svg" aria-label="SDL"/>
+  <image x="100" y="52" width="48" height="50" href="../qt-auto.svg" aria-label="Qt"/>
+  <image x="150" y="52" width="48" height="50" href="../openresty-auto.svg" aria-label="Openresty"/>
+  <image x="200" y="52" width="48" height="50" href="../defold-auto.svg" aria-label="Defold"/>
+  <image x="250" y="52" width="48" height="50" href="../dotnet.svg" aria-label=".NET Core"/>
+  <image x="300" y="52" width="48" height="50" href="../react-auto.svg" aria-label="React"/>
+  <image x="350" y="52" width="48" height="50" href="../bun-alternative-auto.svg" aria-label="Bun"/>
+  <image x="400" y="52" width="48" height="50" href="../vinext-auto.svg" aria-label="vinext"/>
+  <image x="450" y="52" width="48" height="50" href="../nextjs-auto.svg" aria-label="Next.js"/>
+  <image x="500" y="52" width="48" height="50" href="../nodejs-auto.svg" aria-label="Node.JS"/>
+  <image x="550" y="52" width="48" height="50" href="../expressjs-alternative-auto.svg" aria-label="Express"/>
+  <image x="600" y="52" width="48" height="50" href="../fastify-auto.svg" aria-label="Fastify"/>
+  <image x="650" y="52" width="48" height="50" href="../nestjs-auto-alternative.svg" aria-label="NestJS"/>
+  <image x="700" y="52" width="48" height="50" href="../electron.svg" aria-label="Electron"/>
+  <image x="750" y="52" width="48" height="50" href="../django.svg" aria-label="Django"/>
+  <image x="800" y="52" width="48" height="50" href="../spring-auto.svg" aria-label="Springboot"/>
+  <image x="850" y="52" width="48" height="50" href="../laravel-auto.svg" aria-label="Laravel"/>
+  <image x="900" y="52" width="48" height="50" href="../rails.svg" aria-label="Rails"/>
+  <image x="950" y="52" width="48" height="50" href="../https-auto.svg" aria-label="HTTPS"/>
+  <image x="0" y="104" width="48" height="50" href="../dns-auto.svg" aria-label="DNS"/>
+  <image x="50" y="104" width="48" height="50" href="../ssh-auto.svg" aria-label="SSH"/>
+  <image x="100" y="104" width="48" height="50" href="../websocket-auto.svg" aria-label="Web Socket"/>
+  <image x="150" y="104" width="48" height="50" href="../mcp-auto.svg" aria-label="MCP"/>
+  <image x="200" y="104" width="48" height="50" href="../api-auto.svg" aria-label="API"/>
+  <image x="250" y="104" width="48" height="50" href="../rest-api-auto.svg" aria-label="Rest API"/>
+  <image x="300" y="104" width="48" height="50" href="../excalidraw-auto.svg" aria-label="Excalidraw"/>
+  <image x="350" y="104" width="48" height="50" href="../cmake-auto.svg" aria-label="CMake"/>
+  <image x="400" y="104" width="48" height="50" href="../cloudflare-auto.svg" aria-label="Cloudflare"/>
+  <image x="450" y="104" width="48" height="50" href="../rabbitmq-auto.svg" aria-label="RabbitMQ"/>
+  <image x="500" y="104" width="48" height="50" href="../leetcode-auto.svg" aria-label="LeetCode"/>
+</svg>

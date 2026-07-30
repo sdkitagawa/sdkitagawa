@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="52" viewBox="0 0 450 52">
+  <image x="0" y="0" width="48" height="50" href="../unity-auto.svg" aria-label="Unity"/>
+  <image x="50" y="0" width="48" height="50" href="../godot-auto.svg" aria-label="Godot"/>
+  <image x="100" y="0" width="48" height="50" href="../nintendo-engines-dark.svg" aria-label="Module System Engine NintendoWare™"/>
+  <image x="150" y="0" width="48" height="50" href="../nintendo-engines-dark.svg" aria-label="King System Engine NintendoWare™"/>
+  <image x="200" y="0" width="48" height="50" href="../nintendo-engines-light.svg" aria-label="Bezel Engine NintendoWare™"/>
+  <image x="250" y="0" width="48" height="50" href="../nintendo-ndi-dark.svg" aria-label="Nintendo Developer Interface"/>
+  <image x="300" y="0" width="48" height="50" href="../love2d-auto.svg" aria-label="Love2D"/>
+  <image x="350" y="0" width="48" height="50" href="../rpg-maker-nz.svg" aria-label="RPG Maker MZ"/>
+  <image x="400" y="0" width="48" height="50" href="../rpg-maker-xp.svg" aria-label="RPG Maker XP"/>
+</svg>

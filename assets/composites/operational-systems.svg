@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="52" viewBox="0 0 550 52">
+  <image x="0" y="0" width="48" height="50" href="../windows-auto.svg" aria-label="Windows"/>
+  <image x="50" y="0" width="48" height="50" href="../macos-auto.svg" aria-label="macOS"/>
+  <image x="100" y="0" width="48" height="50" href="../linux-auto.svg" aria-label="Linux"/>
+  <image x="150" y="0" width="48" height="50" href="../ubuntu.svg" aria-label="Ubuntu Linux"/>
+  <image x="200" y="0" width="48" height="50" href="../debian.svg" aria-label="Debian Linux"/>
+  <image x="250" y="0" width="48" height="50" href="../fedora-auto.svg" aria-label="Fedora Linux"/>
+  <image x="300" y="0" width="48" height="50" href="../arch-auto.svg" aria-label="Arch Linux"/>
+  <image x="350" y="0" width="48" height="50" href="../kali-auto.svg" aria-label="Kali Linux"/>
+  <image x="400" y="0" width="48" height="50" href="../qubesos-auto.svg" aria-label="QubesOS"/>
+  <image x="450" y="0" width="48" height="50" href="../popos.svg" aria-label="PopOS_! Linux"/>
+  <image x="500" y="0" width="48" height="50" href="../zorinos-light.svg" aria-label="Zorin Linux"/>
+</svg>

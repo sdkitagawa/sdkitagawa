@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="52" viewBox="0 0 312 52">
+  <image x="0" y="0" width="48" height="50" href="../c.svg" aria-label="C"/>
+  <image x="52" y="0" width="48" height="50" href="../cpp.svg" aria-label="C++"/>
+  <image x="104" y="0" width="50" height="50" href="../lua-alternative-a-dark.svg" aria-label="Lua"/>
+  <image x="156" y="0" width="48" height="50" href="../javascript.svg" aria-label="JavaScript"/>
+  <image x="208" y="0" width="48" height="50" href="../typescript.svg" aria-label="TypeScript"/>
+  <image x="260" y="0" width="48" height="50" href="../python-auto.svg" aria-label="Python"/>
+</svg>
