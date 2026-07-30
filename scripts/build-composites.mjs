@@ -143,7 +143,7 @@ async function main() {
     const sizeKB = (compositeBuffer.length / 1024).toFixed(0);
     console.log(`  \u2713 ${slug}.png \u2014 ${icons.length} icons, ${sizeKB} KB`);
 
-    const imgTag = `<img src="./assets/composites/${slug}.png" alt="${sectionName}">`;
+      const imgTag = `![${sectionName}](./assets/composites/${slug}.png)`;
     replacements.push({ from: pictureBlock, to: `## ${sectionName}  \n\n${imgTag}` });
   }
 
