@@ -17,7 +17,6 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * ✔️ Always learning backend technologies.
-* :octocat: Also surfing on artificial intelligence stuff.
 
 ## Tech Stack - Main Languages  
 
