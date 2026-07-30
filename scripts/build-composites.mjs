@@ -108,9 +108,9 @@ while ((match = sectionRegex.exec(readme)) !== null) {
         continue;
       }
 
-      svgParts.push(`  <svg x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" viewBox="${cleaned.viewBox}" aria-label="${icon.alt}">`);
-      svgParts.push(`    ${cleaned.content}`);
-      svgParts.push(`  </svg>`);
+      const svgBuffer = Buffer.from(cleaned.content, 'utf-8');
+      const b64 = svgBuffer.toString('base64');
+      svgParts.push(`  <image x="${x}" y="${y}" width="${icon.width}" height="${icon.height}" href="data:image/svg+xml;base64,${b64}" aria-label="${icon.alt}"/>`);
     }
   }
 
