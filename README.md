@@ -69,7 +69,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Stats  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdkitagawa&theme=dark&hide_border=false)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=sdkitagawa&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ##  Support my work  
 
