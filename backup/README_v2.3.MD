@@ -36,7 +36,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 <div>
     <picture>
-        <img src="../assets/assembly.svg" alt="Assembly" title="Assembly" width="48" height="50" hspace="2" loading="lazy">
+        <img src="../assets/assembly_new-auto.svg" alt="Assembly" title="Assembly" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/cs.svg" alt="C#" title="C#" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/java-auto.svg" alt="Java" title="Java" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/delphi-auto.svg" alt="Delphi" title="Delphi" width="48" height="50" hspace="2" loading="lazy">
