@@ -190,6 +190,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
         <img src="../assets/debian.svg" alt="Debian Linux" title="Debian Linux" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/fedora-auto.svg" alt="Fedora Linux" title="Fedora Linux" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/arch-auto.svg" alt="Arch Linux" title="Arch Linux" width="48" height="50" hspace="2" loading="lazy">
+        <img src="../assets/omarchy-dark.svg" alt="Omarchy Linux" title="Omarchy Linux" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/kali-auto.svg" alt="Kali Linux" title="Kali Linux" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/qubesos-auto.svg" alt="QubesOS" title="QubesOS" width="48" height="50" hspace="2" loading="lazy">
         <img src="../assets/popos.svg" alt="PopOS_! Linux" title="PopOS_! Linux" width="48" height="50" hspace="2" loading="lazy">
