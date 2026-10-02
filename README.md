@@ -40,7 +40,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Operational Systems  
 
-![Operational Systems](./assets/composites/operational-systems.png)
+![Operating Systems](./assets/composites/operating-system.png)
 
 ## AI and Agent Harness Tools  
 
