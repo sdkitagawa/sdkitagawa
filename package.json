@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-composites.mjs"
+    "build": "node scripts/build-composites.mjs",
+    "target": "node scripts/build-composites.mjs --from backup/README_v2.3.md --out TARGET.md",
+    "publish": "node scripts/build-composites.mjs --from backup/README_v2.3.md --out README.md"
   },
   "dependencies": {
     "sharp": "^0.35.3"
