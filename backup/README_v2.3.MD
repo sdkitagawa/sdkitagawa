@@ -17,7 +17,6 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * ✔️ Always learning backend technologies.
-* :octocat: Also surfing on artificial intelligence stuff.
 
 ## Tech Stack - Main Languages  
 
@@ -261,6 +260,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 <div>
     <picture>
+        <!-- grid: 3 -->
         <img src="../assets/badges/starstruck-default.png" alt="Starstruck" title="Starstruck Badge - Unlocked in 2025" width="80" height="80" hspace="2" loading="lazy">
         <img src="../assets/badges/pull-shark-default.png" alt="Pull Shark" title="Pull Shark Badge - Unlocked in 2018" width="80" height="80" hspace="2" loading="lazy">
         <img src="../assets/badges/public-sponsor-default.png" alt="Sponsor" title="Sponsor - Unlocked in 2024" width="80" height="80" hspace="2" loading="lazy">
@@ -284,7 +284,7 @@ I have a deep passion for sharing knowledge and promoting learning. My journey i
 
 ## Stats  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdkitagawa&theme=dark&hide_border=false)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=sdkitagawa&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ##  Support my work  
 
